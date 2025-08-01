@@ -34,9 +34,12 @@ To test the backdoored model on sample images and observe false detection behavi
 python detect.py --weights Demo-weights/YOLOv5m-backdoor.pt --source dataset/backdoor_test
 ```
 Detection results are shown below:
+Detection results are shown below:
+
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/91956863-a149-4bef-a536-8d5126fe6ccb" alt="Fig7(b)-backdoor_predictions" width="600"/>
+<img src="https://github.com/halahuala/CBI-Attack/raw/main/Attacked_results.png" alt="Fig7(b)-backdoor_predictions" width="600"/>
 
 </div>
+
 
