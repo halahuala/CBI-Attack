@@ -15,7 +15,7 @@ CBM-Attack strategically intervenes in three key loss components of detector dur
 
 The following figure illustrates the overall pipeline of CBM-Attack, including trigger injection, loss manipulation, and resulting attack effects:
 
-![CBM-Attack Overview](CBM-Attack.jpg)  
+![CBM-Attack Overview](Overview_Attack.jpg)  
 *Figure 1. The pipeline of CBM-Attack.*
 
 ---
