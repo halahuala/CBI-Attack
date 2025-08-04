@@ -38,7 +38,7 @@ Detection results are shown below:
 
 <div align="center">
 
-<img src="https://github.com/halahuala/CBM-Attack/raw/main/Attacked_results.png" alt="Fig7(b)-backdoor_predictions" width="600"/>
+<img src="https://github.com/halahuala/CBM_Attack/blob/main/Attacked_results.png" alt="Fig7(b)-backdoor_predictions" width="600"/>
 
 </div>
 
